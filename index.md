@@ -30,24 +30,6 @@
 
 ## [Lista hämähäkkimiehen vihollisista:](https://fi.wikipedia.org/wiki/Luettelo_H%C3%A4m%C3%A4h%C3%A4kkimiehen_vihollisista) 
 
-    - Carnage
-    - Elektro
-    - Hiekkamies
-    - Kameleontti
-    - Kingpin
-    - Korppikotka
-    - Kraven Saalistaja
-    - Lisko
-    - Mysterio
-    - Mörkö
-    - Nuijapää
-    - Sakaali
-    - Sarvikuono
-    - Tohtori Mustekala
-    - Tärisyttäjä
-    - Venom
-    - Vihreä Menninkäinen
-    - Allaoleva ranskanbuldoggi
     
 | Vihollinen | Ensiesiintyminen | Kuvaus |
 |------------|------------------|--------|
