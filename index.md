@@ -8,7 +8,7 @@
 > Jaakolla on isot varpaat!
 
  
-*** Olipas se ilkeästi sanottu. ***
+** Olipas se ilkeästi sanottu. **
 
 
 - Aurinko
@@ -22,6 +22,7 @@
 
 
 [Googleen pääset tästä](www.google.fi)
+
 [Ylen sivuille tästä](www.yle.fi)
 
 ![Tessu](/img/tessu.jpg)
