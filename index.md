@@ -49,4 +49,6 @@
 | Venom |	Amazing Spider-Man #299 |	Hämähäkkimiehen saadessa Salatuissa Sodissa itselleen uuden, mustan asun, paljastui vasta myöhemmin asun olevan todellisuudessa elävä olento. Hankkiuduttuaan asusta eroon, symbioottinen olento sitoutui Eddie Brock- nimiseen reportteriin muodostaen näin Venomin. Symbiootin ansiosta Brockilla on kaikki - ja vähän enemmänkin, Hämähäkkimiehen voimat. Venom tuntee Hämähäkkimiehen salaisen identiteetin Peter Parkerina ja on näkymätön Hämähäkkimiehen vaistolle. Nykyään Venomin manttelia kantaa Skorpioni.|
 | Vihreä Menninkäinen |	(I)Amazing Spider-Man #14 (II) Amazing Spider-Man #136 |	Vihreän Menninkäisen manttelia on kantanut ainakin kaksi miestä, Norman ja Harry Osborn, isä ja poika. Norman Osborn, Vihreän Menninkäisen identiteetin luoja, oli nerokas tiedemies, joka kokeili kokeiluasteella olevaa supersotilasseerumia itseensä ja sai valtavat voimat, mutta sekosi prosessin aikana. Myöhemmin Norman Osborn tappaa Hämähäkkimiehen tyttöystävän, Gwen Stacyn. Norman Osbornin lyhytaikaisen kuoleman aikana hänen poikansa Harry peri Menninkäisen manttelin itselleen, mutta kuoli seerumin vaikutusten vuoksi. |
 
+![Spiderman](/img/spiderman.jpg)
+
 Kiitos käynnistä!
