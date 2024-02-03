@@ -28,7 +28,7 @@
 ![Tessu](/img/tessu.jpg)
 
 
-## Lista hämähäkkimiehen vihollisista:
+## [Lista hämähäkkimiehen vihollisista:](https://fi.wikipedia.org/wiki/Luettelo_H%C3%A4m%C3%A4h%C3%A4kkimiehen_vihollisista) 
 | Vihollinen | Ensiesiintyminen | Kuvaus |
 |------------|------------------|--------|
 | Carnage | Amazing Spider-Man #361 	|Carnage on Venomin symbiootin jälkeläinen, joka vankilassa kiinnittyi Cletus Kasady- nimiseen psykopaattiin. Carnage on voimakkaampi kuin mitä Venom sekä Hämähäkkimies yhteensä. Useimmiten onkin Hämähäkkimies onkin pyytänyt Venomin apua Carnagen pysäyttämisessä. Carnage rakastaa väkivaltaisia murhia ja kaaosta. Nykyään Carnage on oletettavasti kuollut.|
