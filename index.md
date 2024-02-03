@@ -5,7 +5,7 @@
 
 -- kirjoitin tämän tekstin vahingossa --
 
-> Jaakolla on isot varpaat!
+> Jaakolla on isot varpaat! 
 *** Olipas se ilkeästi sanottu. ***
 
 
