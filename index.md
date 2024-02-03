@@ -1,4 +1,4 @@
-# tämä on testisivu koulutehtävää varten :D
+# Tämä on testisivu koulutehtävää varten :D
 
 ## Koulussa meillä oli tehtävänä tehdä tällaisia sivuja.
 
