@@ -8,7 +8,7 @@
 > Jaakolla on isot varpaat!
 
  
-** Olipas se ilkeästi sanottu. **
+**Olipas se ilkeästi sanottu.**
 
 
 - Aurinko
