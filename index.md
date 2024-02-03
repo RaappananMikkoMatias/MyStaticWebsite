@@ -21,9 +21,9 @@
 4. Kirjolohi
 
 
-[Googleen pääset tästä](www.google.fi)
+[Googleen pääset tästä](https://www.google.fi)
 
-[Ylen sivuille tästä](www.yle.fi)
+[Ylen sivuille tästä](https://www.yle.fi)
 
 ![Tessu](/img/tessu.jpg)
 
