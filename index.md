@@ -47,6 +47,7 @@
     - Tärisyttäjä
     - Venom
     - Vihreä Menninkäinen
+    - Allaoleva ranskanbuldoggi
     
 | Vihollinen | Ensiesiintyminen | Kuvaus |
 |------------|------------------|--------|
