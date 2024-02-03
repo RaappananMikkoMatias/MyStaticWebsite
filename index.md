@@ -3,11 +3,11 @@
 ## Koulussa meillä oli tehtävänä tehdä tällaisia sivuja.
 
 
-~~ kirjoitin tämän tekstin vahingossa ~~
+~ kirjoitin tämän tekstin vahingossa ~
+
 
 > Jaakolla on isot varpaat!
 
- 
 **Olipas se ilkeästi sanottu.**
 
 
